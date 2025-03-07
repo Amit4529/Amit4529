@@ -20,6 +20,6 @@
  
 
 ### 🔗 Connect With Me  
-[![LinkedIn](https://www.linkedin.com/in/amit-raj-227b5131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+[LinkedIn](https://www.linkedin.com/in/amit-raj-227b5131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 
 🔥 **"Keep Learning, Keep Building!"**  
