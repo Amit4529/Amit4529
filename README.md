@@ -15,7 +15,7 @@
 -MONGODB
 
 ### 🚀 Featured Projects  
-🔹 **[Multilingo](https://github.com/your-repo-link)** - Real-time language translator with emoji-based translation  
+🔹 **[Multilingo](https://github.com/Amit4529/MultiLingo)** - Real-time language translator with emoji-based translation  
 🔹 **[Your Other Project Name](https://github.com/your-repo-link)** - Brief project description  
 🔹 **More projects coming soon...**  
  
