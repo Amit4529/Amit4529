@@ -7,7 +7,7 @@
 - 💡 Passionate about **coding, development, and problem-solving**  
 - 🏆 **Hackathon participant & coding contest winner**  
 - 🌱 Currently working on **[PeerSphere]**  
-- 🌍 Creator of **[Multilingo](https://github.com/your-repo-link)** – A **real-time language translator** that supports text, voice, and emoji-based translation  
+- 🌍 Creator of **[Multilingo](https://github.com/Amit4529/MultiLingo)** – A **real-time language translator** that supports text, voice, and emoji-based translation  
 
 ### 🛠️ Tech Stack  
 -PYTHON, JAVA
@@ -15,9 +15,8 @@
 -MONGODB
 
 ### 🚀 Featured Projects  
-🔹 **[Multilingo](https://github.com/Amit4529/MultiLingo)** - Real-time language translator with emoji-based translation  
-🔹 **[Your Other Project Name](https://github.com/your-repo-link)** - Brief project description  
-🔹 **More projects coming soon...**  
+🔹 [Multilingo](https://github.com/Amit4529/MultiLingo)** - Real-time language translator with emoji-based translation  
+ 
  
 
 ### 🔗 Connect With Me  
