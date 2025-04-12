@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Amit Raj  
 
 🚀 💻 I breathe code, build ideas, and turn coffee into logic.
+
 🚀 Full-stack learner & problem-solving junkie.
 
 
