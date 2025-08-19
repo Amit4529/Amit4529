@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 About Me  
-- 🎓 B.Tech CSE | 1st Year  
+- 🎓 B.Tech CSE | 2nd Year  
 - 💡 Passionate about *coding, development, and problem-solving*  
 - 🏆 *Hackathon participant & coding contest winner*
 
