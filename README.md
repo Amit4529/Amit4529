@@ -1,22 +1,40 @@
 # 👋 Hi, I'm Amit Raj  
 
-🚀 💻 I breathe code, build ideas, and turn coffee into logic.
+🚀💻 I breathe code, build ideas, and turn coffee into logic.  
+🚀 Full-stack learner & problem-solving enthusiast.
 
-🚀 Full-stack learner & problem-solving junkie.
+---
 
+## 👨‍💻 About Me  
+- 🎓 **B.Tech in Computer Science Engineering | 2nd Year**  
+- 💡 Passionate about **coding, development, and problem-solving**  
+- 🧠 Strong interest in **DSA, Full-Stack Development & AI-based projects**
 
-### 👨‍💻 About Me  
-- 🎓 B.Tech CSE | 2nd Year  
-- 💡 Passionate about *coding, development, and problem-solving*  
-- 🏆 *Hackathon participant & coding contest winner*
+---
 
-### 🛠 Tech Stack  
--PYTHON, JAVA
--HTML ,CSS , JAVASCRIPT , REACT.JS , NODE.JS,
--MONGODB
- 
+## 🧩 Coding Profiles  
+- 🟡 **LeetCode:** https://leetcode.com/u/Amit0310/  
+- 🔵 **CodeChef:** https://www.codechef.com/users/amit310  
 
-### 🔗 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/amit-raj-227b5131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+---
 
-🔥 *"Keep Learning, Keep Building!"*
+## 🛠 Tech Stack  
+
+**Languages:**  
+- Python, Java  
+
+**Frontend:**  
+- HTML, CSS, JavaScript, React.js  
+
+**Backend & Database:**  
+- Node.js, MongoDB  
+
+---
+
+## 🔗 Connect With Me  
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/amit-raj-227b5131b  
+
+---
+
+🔥 *"Keep Learning. Keep Building."*
