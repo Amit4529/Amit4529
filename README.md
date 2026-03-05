@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%7C+Full-Stack+Developer;DSA+Enthusiast;Hackathon+Builder" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amit4529&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -61,23 +57,6 @@ https://www.codechef.com/users/amit310
 - Built using **LangChain + FAISS + HuggingFace embeddings**
 - Allows users to **upload documents and ask questions**
 - Uses **retrieval-augmented generation pipeline**
-
----
-
-### 🌐 PeerSphere – Student Collaboration Platform
-- Platform for **students across colleges to connect**
-- Branch-based communities & startup collaboration
-- Built with **Full Stack Web Technologies**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amit4529&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit4529&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
