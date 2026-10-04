@@ -1,132 +1,184 @@
-<h1 align="center">Amit Raj</h1>
+<!-- Header -->
 
-<p align="center">
-  <b>AI • Machine Learning • Software Engineering</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/Amit0310/">LeetCode</a> •
-  <a href="https://www.codechef.com/users/amit310">CodeChef</a> •
-  <a href="https://www.linkedin.com/in/amit0310/">LinkedIn</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00bcd4&height=200&section=header&text=Amit%20Raj&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Software%20Engineering&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+with+AI+and+Code;Exploring+Generative+AI+%26+Computer+Vision;Building+RAG+Systems+%26+AI+Applications;Turning+Ideas+into+Working+Systems" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+ML;Exploring+Generative+AI+%26+Computer+Vision;Engineering+production-ready+AI+applications;Turning+research+into+real-world+solutions" />
 
-## About
+</div>
 
-I'm a Computer Science Engineering student interested in building intelligent
-systems that solve practical problems.
+<br/>
 
-My work spans **Machine Learning, Deep Learning, Generative AI, RAG, and
-Computer Vision**, with a strong focus on taking models beyond notebooks and
-turning them into usable applications.
+<!-- About -->
 
-- Building AI-powered applications and intelligent systems
-- Exploring Generative AI, RAG, AI Agents and Computer Vision
-- Working with both model development and AI application engineering
-- Interested in deploying ML systems and making them production-ready
-- Selected for Amazon ML Summer School 2026
+##  `~/about`
 
----
+> *Exploring AI by building systems that actually work*
 
-## What I Work With
+I work at the intersection of **Machine Learning** and **Software Engineering**, building AI systems that go beyond notebooks and into production. From **deep learning pipelines** to **RAG-powered applications**, I focus on turning research into tools that actually work.
 
-### Languages
+Currently exploring **Generative AI**, **AI Agents**, and **retrieval systems** while strengthening my foundations in **Deep Learning, Computer Vision, and scalable backend systems**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
 
-### AI / Machine Learning
+<!-- Tech Stack -->
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+##  `~/tech-stack`
 
-### Development
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+**Languages**
 
-### Data & Infrastructure
+<br/><br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" />
 
----
+</td>
 
-## Things I've Built
+<td valign="top" width="33%">
 
-### OncoScan
-**Skin Cancer Detection using Deep Learning**
+**AI / ML**
 
-A two-stage CNN-based system for skin lesion classification using EfficientNet.
+<br/><br/>
 
-- Cancerous vs non-cancerous classification
-- Cancer type classification
-- Trained on HAM10000-derived data
-- Flask inference API for real-time predictions
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
----
+<br/><br/>
 
-### AskNeura
-**Document Intelligence with RAG**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square\&logo=scikit-learn\&logoColor=00bcd4)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square\&logo=langchain\&logoColor=00bcd4)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square\&logo=huggingface\&logoColor=00bcd4)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square\&logo=google\&logoColor=00bcd4)
 
-A multi-document question-answering system that lets users upload documents
-and interact with their contents.
+</td>
 
-`FastAPI` `LangChain` `FAISS` `HuggingFace` `Gemini`
+<td valign="top" width="33%">
 
-- Recursive document chunking
-- Semantic vector retrieval
-- Multi-document question answering
-- Retrieval-Augmented Generation pipeline
+**Development**
 
----
+<br/><br/>
 
-### RevoX
-**Agentic Revenue Recovery**
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind&theme=dark" />
 
-An AI-driven system designed around failed payments, abandoned checkouts,
-overdue invoices and merchant recovery workflows.
+</td>
+</tr>
 
-- Agent-based recovery decisions
-- Policy-engine guardrails
-- Automated communication workflows
-- Recovery analytics and audit trails
+<tr>
+<td colspan="3" align="center">
 
----
+**Data & Infrastructure**
 
-## Highlights
+<br/><br/>
 
-- Winner — Codebuster Coding Contest 2024
-- 1st Place — Internal Smart India Hackathon 2025
-- Finalist — Shaastra Programming Contest, IIT Madras
-- Selected — Amazon ML Summer School 2026
-- Azure AI Engineer Associate
-- Azure Developer Associate
-- 15+ hackathons and coding contests
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git&theme=dark" />
 
----
+  
 
-## Areas I'm Exploring
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square\&logoColor=00bcd4)
 
-```text
-Generative AI
-RAG & Retrieval Systems
-AI Agents
-Deep Learning
-Machine Learning
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Currently Exploring -->
+
+##  `~/currently-exploring`
+
+* ◈ **Generative AI** → LLMs, prompt engineering, fine-tuning
+* ◈ **RAG Systems** → vector search, semantic chunking, hybrid retrieval
+* ◈ **Deep Learning** → neural networks, CNNs, representation learning
+* ◈ **AI Agents** → tool use, reasoning, and autonomous workflows
+
+<br/>
+
+<!-- Achievements -->
+
+##  `~/achievements`
+
+<div align="center">
+
+|     | Achievement   | Details                                  |
+| :-: | :------------ | :--------------------------------------- |
+|  🏆 | **Selected** |  Amazon ML Summer School 2026             |
+|  🥇 | **1st Place** | Internal Smart India Hackathon 2025      |
+|  🎯 | **Finalist**  | Shaastra Programming Contest, IIT Madras |
+|  🎓 | **1st Place** | Codebuster Coding Contest        |
+|  ☁️ | **Certified** | Azure AI Engineer Associate              |
+|  ☁️ | **Certified** | Azure Developer Associate                |
+|  💻 | **700+**      | DSA Problems Solved                      |
+|  ⭐  | **1800+**     | LeetCode Rating                          |
+|  🏅 | **2-Star**    | CodeChef                                 |
+|  🚀 | **15+**       | Hackathons & Coding Contests             |
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+
+##  `~/github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amit4529&show_icons=true&bg_color=0d1117&title_color=00bcd4&text_color=8b949e&icon_color=00bcd4&border_color=161b22&hide_border=false&count_private=true" height="170" />
+
+   
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit4529&layout=compact&bg_color=0d1117&title_color=00bcd4&text_color=8b949e&border_color=161b22&hide_border=false&langs_count=6" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amit4529&theme=transparent&background=0d1117&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=6e7681&border=161b22" width="520" />
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+<!-- Connect -->
+
+##  `~/connect`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Amit0310/">
+<img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=00bcd4" />
+</a>
+
+ 
+
+<a href="https://www.codechef.com/users/amit310">
+<img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=00bcd4" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/amit0310/">
+<img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=00bcd4&v=1" />
+</a>
+
+ 
+
+<a href="https://github.com/Amit4529">
+<img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00bcd4" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00bcd4&height=100&section=footer" width="100%" />
+
+</div>
