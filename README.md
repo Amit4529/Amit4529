@@ -114,7 +114,6 @@ Currently exploring **Generative AI**, **AI Agents**, and **retrieval systems** 
 |  ☁️ | **Certified** | Azure Developer Associate                |
 |  💻 | **700+**      | DSA Problems Solved                      |
 |  ⭐  | **1800+**     | LeetCode Rating                          |
-|  🏅 | **2-Star**    | CodeChef                                 |
 |  🚀 | **15+**       | Hackathons & Coding Contests             |
 
 </div>
